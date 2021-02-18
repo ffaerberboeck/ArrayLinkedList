@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="G 6a.1.2 Unterschied zw. ArrayList und LinkedList:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/G_6a_1_2_Unterschied_zw__ArrayList_und_LinkedList_jar</output-path>
+    <root id="archive" name="G 6a.1.2 Unterschied zw. ArrayList und LinkedList.jar">
+      <element id="module-output" name="G 6a.1.2 Unterschied zw. ArrayList und LinkedList" />
+      <element id="module-source" name="G 6a.1.2 Unterschied zw. ArrayList und LinkedList" />
+      <element id="dir-copy" path="$PROJECT_DIR$/doc" />
+    </root>
+  </artifact>
+</component>
